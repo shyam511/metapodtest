@@ -1,0 +1,49 @@
+.navcontainer
+{
+    display: flex;
+    height: 100px;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(33, 33, 33);
+    box-shadow: rgb(117, 115, 115) 0 0px 10px -5px;
+
+    
+}
+
+.companylogo
+{
+    height: auto;
+    width: 200px;
+    padding-left: 20px;
+    
+}
+
+.navbutton{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    padding-right: 20px;
+    /* border:1px solid black; */
+    align-items: center;
+    justify-content: center;
+}
+
+.buttontrynow {
+  background: rgb(33, 33, 33);
+  border-radius: 20px;
+  box-shadow: rgb(117, 115, 115) 0 0px 10px -5px;
+  /* box-sizing: border-box; */
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica;
+  font-weight: 700;
+  padding: 5px 20px;
+  touch-action: manipulation;
+  width: fit-content;
+  height: 60%;
+  padding-right: 20px;
+  border:none;
+ 
+}

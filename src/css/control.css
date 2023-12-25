@@ -1,0 +1,16 @@
+.controlbox
+{   height: 200px;
+    display: flex;
+    /* border:3px solid rgb(214, 214, 214); */
+    justify-content: center;
+    align-items: center;
+}
+
+.controlbutton
+{ 
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-family: Inter,Helvetica; 
+}

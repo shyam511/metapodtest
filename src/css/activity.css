@@ -1,0 +1,11 @@
+.activitybox
+{   display: flex;
+    /* border:3px solid rgb(214, 214, 214); */
+    justify-content: center;
+}
+
+.activitytext
+{ 
+    color: #FFFFFF;
+    font-family: Inter,Helvetica; 
+}
